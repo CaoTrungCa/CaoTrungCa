@@ -29,7 +29,7 @@ I.	Download các phần mềm cần thiết
     - Add command to Environment Variable
 
     ```bash
-        C:\Users\Admin\AppData\Local\GitHubDesktop\bin
+        C:\Program Files\PostgreSQL\15\bin
     ```
 
     - Create a new PostgreSQL user with a password by following these steps:
@@ -48,7 +48,7 @@ I.	Download các phần mềm cần thiết
     - Add command to Environment Variable
 
     ```bash
-        C:\Program Files\PostgreSQL\15\bin
+        C:\Users\Admin\AppData\Local\GitHubDesktop\bin
     ```
 
 8.  [Download Build Tools for Visual Studio](https://aka.ms/vs/17/release/vs_BuildTools.exe)
