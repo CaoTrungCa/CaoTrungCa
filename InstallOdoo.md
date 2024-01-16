@@ -40,6 +40,9 @@ I.	Download các phần mềm cần thiết
     - Go to the Definition tab and input the password (db_password = odoo), then click Save.
     - Navigate to the Privileges tab and set Can login? and Create database? to Yes. Adding these privileges makes the database user, equivalent to the administrator.
     - These steps will allow you to create a new PostgreSQL user with the necessary privileges to use Odoo.
+  
+    - Note: Database restore error: Go to File-> Preferences-> Paths->Binary paths
+                                    Change PostgreSQL Binary Path to "C:\Program Files\PostgreSQL\15\bin"
 
 6.	[Download Git](https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe)
 
