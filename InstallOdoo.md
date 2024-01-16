@@ -183,6 +183,7 @@ V. Debug với Python
             xmlrpc_port = 8069
             list_db = True
             addons_path = D:\Odoo_15\addons,D:\Odoo_15\custom-addons
+            pg_path = C:\Program Files\PostgreSQL\15\bin
         ```
 
 4.  Run debug
